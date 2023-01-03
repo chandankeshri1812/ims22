@@ -1,0 +1,476 @@
+@media only screen and (max-width: 800px) {
+
+    .header {
+        width: 95%;
+    }
+
+    .header_cont {
+        font-size: 20px;
+    }
+
+    nav {
+        margin: 0px;
+        padding: 6px 2px;
+    }
+
+    .nav-1-div-a {
+        padding: 0px 12px;
+        font-size: 12px;
+    }
+
+    .section-1-main {
+        flex-direction: column;
+        width: 95%;
+        padding: 1rem 0rem;
+    }
+
+    .section-1_1-sub-main {
+        width: 100%;
+
+    }
+
+
+
+
+
+    .section-1_2-sub-main {
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .section-1_2-sub-main img {
+        width: 100%;
+        height: auto;
+    }
+
+    .section-1_1-sub-main {
+        width: 100%;
+
+    }
+
+    /* section 2  */
+    .sect-02-02 {
+        height: 9rem;
+    }
+
+    .sect-02-03 {
+        width: 90%;
+    }
+
+    .sect-02-03 img {
+        width: 100%;
+    }
+
+    /* Section -4 sysnosisi */
+    .section-04 {
+        padding: 20px 0px;
+    }
+
+    .section-04 h4 {
+        font-size: 20px;
+        color: #000000;
+    }
+
+    .section-04-main {
+        padding: 0px 12px;
+    }
+
+    .section-04-sub-main h5 {
+        font-size: 12px;
+    }
+
+    .section-04-sub-main h6 {
+        font-size: 10px;
+    }
+
+    .section-04-sub-main h4 {
+        font-size: 16px;
+    }
+
+    .section-04-sub-main p {
+        font-size: 10px;
+    }
+
+    /* section -03  Memorial Award Lectures */
+    .section-03-main {
+        width: 100%;
+    }
+
+    .section-03 h4 {
+        font-size: 20px;
+    }
+
+    .section-03-sub-main {
+        min-width: 150px;
+        width: 45%;
+    }
+
+    .section-03-sub-main h6 {
+        font-size: 13px;
+    }
+
+    .section-03-sub-main p {
+        font-size: 10px;
+
+    }
+
+
+    /* sectional 5 invited talks */
+    .section-05 h4 {
+        font-size: 20px;
+    }
+
+    .section-05-02-01 {
+        max-width: 100%;
+        width: 100%;
+        margin: 11px 0px;
+    }
+
+    .section-05-02 h6 {
+        font-size: 18px;
+    }
+
+
+    .section-05-02-01 h6 {
+        font-size: 10px;
+    }
+
+    .section-05-02-01 h4 {
+        font-size: 16px;
+    }
+
+    .section-05-02-01 p {
+        font-size: 10px;
+    }
+
+
+
+    /* footer */
+    .footer-main-div {
+        flex-direction: column;
+        padding: 0px 0px;
+    }
+
+    .footer-left-content p {
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .footer-right-content h6 {
+        font-size: 10px;
+        padding-top: 4px;
+    }
+
+    .footer-right-content {
+        flex-direction: column;
+        padding-top: 8px;
+    }
+
+
+    .clickacbleLinkedInIcon {
+        padding-left: 0px;
+    }
+
+
+
+    /* about section */
+    .about_main {
+        padding: 10px 25px;
+    }
+
+    .about_main_div_cont {
+        flex-direction: column;
+    }
+
+    .about-02-card {
+        width: 45%;
+        max-width: 50%;
+    }
+
+    .about_us {
+        font-size: 1.2rem;
+
+    }
+
+    .about_main_div_01 {
+        width: 100%;
+    }
+
+    .about_main_div_01 h6 {
+        font-size: 13px;
+
+    }
+
+    .about_main_div_01 p {
+        font-size: 10px;
+
+    }
+
+    .about_main_div_02 {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .about_main_div_02 img {
+        width: 90%;
+    }
+
+    .sect-about-03-card {
+        width: 45%;
+        max-width: 45%;
+    }
+
+    /* contact */
+    .contact-sub-container-left {
+        margin: 23px;
+    }
+
+    .contact-main-card h6 {
+        font-size: 10px;
+    }
+
+    .contact-main-card h5 {
+        font-size: 14px;
+    }
+
+    .contact-main-card h4 {
+        font-size: 10px;
+    }
+
+    .contact-main-card h3 {
+        font-size: 10px;
+    }
+
+    .contact-main-card h2 {
+        font-size: 10px;
+    }
+
+
+    /*  pleanry */
+    .plenary-main h2 {
+        font-size: 20px;
+
+    }
+
+    .plenary-main-container {
+        flex-direction: column;
+    }
+
+    .plenary-card {
+        width: 88%;
+        flex-direction: column;
+        padding: 6px;
+    }
+
+    .pleanry-card-details h6 {
+        font-size: 16px;
+
+    }
+
+    .pleanry-card-details p {
+        font-size: 14px;
+
+    }
+
+    .plenary-img img {
+        width: 70%;
+    }
+
+    /* awards */
+    .awards {
+        padding: 12px;
+        width: 91%;
+    }
+
+    .awards h2 {
+        font-size: 20px;
+    }
+
+    .awards-card {
+        flex-direction: column-reverse;
+    }
+
+    .prizes-img {
+        width: 100%;
+    }
+
+    .awards-content {
+        width: 100%;
+    }
+
+    .awards-content p {
+        width: 100%;
+    }
+
+    .paper-poster h2 {
+        font-size: 20px;
+    }
+
+    .poster-card p {
+        padding: 5px;
+    }
+
+
+    /* registraion */
+    .Registration-main-cont {
+        padding-top: 0px;
+    }
+
+    .inner-regist {
+        width: 100%;
+        height: 100vh;
+    }
+
+    .regist-img {
+        display: none;
+    }
+
+    .registration-card {
+        width: 100%;
+    }
+    .section-1_1-sub-main h4 {
+        font-size: 16px;
+    }
+
+    .section-1_1-sub-main h2 {
+        font-size: 16px;
+    }
+
+    .section-1_1-sub-main {
+        padding-top: 14px;
+    }
+
+    .section-1_1-sub-main p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .lastdate_main{
+        font-size: 12px;
+    }
+    .section-1_1-sub-main h5{
+        font-size: 14px;
+    }
+    .section-04-sub-main{
+        width: 40%;
+    }
+}
+
+
+
+@media only screen and (max-width: 400px) {
+
+    .section-04-main {
+        flex-direction: column;
+    }
+
+    .section-04-sub-main {
+        width: 95%;
+    }
+
+    .section-04-sub-main {
+        /* width: 100%; */
+        /* height: 150px; */
+    }
+
+    .section-1_1-sub-main h5 {
+        font-size: 14px;
+    }
+
+    /* section -03 */
+    .section-03-main {
+        width: 90%;
+        margin: auto;
+
+    }
+
+    .section-03-sub-main {
+        min-width: 150px;
+        width: 100%;
+        margin: auto;
+        margin: 10px 0px;
+    }
+
+
+    /* section 5 */
+    .section-05-02-01 {
+        max-width: 100%;
+        width: 100%;
+        /* margin: auto; */
+        /* margin: 10px 0px; */
+    }
+
+
+    /* aboout section */
+    .about-02-card {
+        padding: 8px;
+    }
+
+    .about-02-card h6 {
+        font-size: 8px;
+    }
+
+    .about-02-card h5 {
+        font-size: 14px;
+    }
+
+    .about-02-card p {
+        font-size: 10px;
+    }
+
+    .about-02-cont {
+        padding: 0px 10px;
+        padding-bottom: 25px;
+    }
+
+    .sect-about-03 h5 {
+        font-size: 18px;
+    }
+
+    .sect-about-03-card {
+        width: 100%;
+        max-width: 100%;
+        padding: 20px;
+    }
+
+
+    .sect-about-03 h5 {
+        font-size: 14px;
+    }
+
+    .sect-about-03-card h6 {
+        font-size: 8px;
+    }
+
+    .sect-about-03-card p {
+        font-size: 10px;
+    }
+
+   
+
+}
+
+@media only screen and (max-width: 400px) {
+    .about-02-card {
+        width: 90%;
+        max-width: 100%;
+    }
+
+    .section-1_1-sub-main h4 {
+        font-size: 16px;
+    }
+
+    .section-1_1-sub-main h2 {
+        font-size: 16px;
+    }
+
+    .section-1_1-sub-main {
+        padding-top: 14px;
+    }
+
+    .section-1_1-sub-main p {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .btn-main-regist {}
+}
